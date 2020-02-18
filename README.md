@@ -10,9 +10,9 @@
 
 ## 统计学习方法｜K近邻
 
-**模型理论讲解：**
+**模型理论讲解：**[统计学习方法｜支持向量机模型原理详解与实现](https://codewithzichao.github.io/2020/02/17/统计学习方法-支持向量机模型原理详解与实现/#more)
 
-**模型代码实现：**
+**模型代码实现：**[SVM_python.py](https://github.com/codewithzichao/Machine_Learning_Code/blob/master/SVM/SVM_python.py)、[SVM_sklearn.py](https://github.com/codewithzichao/Machine_Learning_Code/blob/master/SVM/SVM_sklearn.py)
 
 ## 统计学习方法｜朴素贝叶斯
 
