@@ -4,7 +4,7 @@
 
 ## 统计学习方法｜感知机模型
 
-**模型理论讲解：**[统计学习方法｜感知机模型原理详解及实现](https://codewithzichao.github.io/2020/02/16/统计学习方法｜感知机模型原理详解与实现/#more)
+**模型理论讲解：**[统计学习方法｜感知机模型原理详解及实现](https://codewithzichao.github.io/2020/02/17/统计学习方法｜感知机模型原理详解与实现/#more)
 
 **模型代码实现：**[perceptron_python.py](https://github.com/codewithzichao/Machine_Learning_Code/blob/master/perceptron/perceptron_python.py)、[perceptron_sklearn.py](https://github.com/codewithzichao/Machine_Learning_Code/blob/master/perceptron/perceptron_sklearn.py)
 
