@@ -16,9 +16,9 @@
 
 ## 统计学习方法｜朴素贝叶斯
 
-**模型理论讲解：**
+**模型理论讲解：**[统计学习方法｜朴素贝叶斯模型原理详解与实现](https://codewithzichao.github.io/2020/02/18/统计学习方法-朴素贝叶斯模型详解与实现/#more)
 
-**模型代码实现：**
+**模型代码实现：**[Naive_Bayes_python.py](https://github.com/codewithzichao/Machine_Learning_Code/blob/master/Naive_Bayes/Naive_Bayes_python.py)、[Naive_Bayes_sklearn.py](https://github.com/codewithzichao/Machine_Learning_Code/blob/master/Naive_Bayes/Naive_Bayes_sklearn.py)
 
 ## 统计学习方法｜决策树
 
