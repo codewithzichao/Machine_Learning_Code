@@ -28,9 +28,9 @@
 
 ## 统计学习方法｜logistic回归
 
-**模型理论讲解：**
+**模型理论讲解：**[统计学习方法｜logistic回归模型详解与实现](https://codewithzichao.github.io/2020/02/20/统计学习方法-最大熵模型原理详解与实现/#more)
 
-**模型代码实现：**
+**模型代码实现：**[logisitic_regression_python.py](https://github.com/codewithzichao/Machine_Learning_Code/blob/master/MaxEnt/logistic_regression_python.py)、[logistic_regression_scikit-learn.py](https://github.com/codewithzichao/Machine_Learning_Code/blob/master/MaxEnt/logistic_regression_scikit-learn.py)
 
 ## 统计学习方法｜softmax
 
@@ -40,9 +40,9 @@
 
 ## 统计学习方法｜最大熵模型
 
-**模型理论讲解：**
+**模型理论讲解：**[统计学习方法｜最大熵模型原理详解与实现](https://codewithzichao.github.io/2020/02/20/统计学习方法-最大熵模型原理详解与实现/#more)
 
-**模型代码实现：**
+**模型代码实现：**[Max_Entropy.py](https://github.com/codewithzichao/Machine_Learning_Code/blob/master/MaxEnt/Max_Entropy.py)
 
 ## 统计学习方法｜支持向量机
 
