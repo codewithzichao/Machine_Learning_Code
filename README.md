@@ -32,7 +32,7 @@
 
 **模型代码实现：**[logisitic_regression_python.py](https://github.com/codewithzichao/Machine_Learning_Code/blob/master/MaxEnt/logistic_regression_python.py)、[logistic_regression_scikit-learn.py](https://github.com/codewithzichao/Machine_Learning_Code/blob/master/MaxEnt/logistic_regression_scikit-learn.py)
 
-## 统计学习方法｜softmax
+## 机器学习｜softmax
 
 **模型理论讲解：**
 
@@ -56,7 +56,7 @@
 
 **模型代码实现：**
 
-## 机器学习｜XGBoost/Light GBM/catBoost
+## 机器学习｜GBDT/XGBoost/Light GBM/catBoost
 
 **模型理论讲解：**
 
@@ -64,7 +64,7 @@
 
 ## 统计学习方法｜EM算法
 
-**模型理论讲解：**
+**模型理论讲解：**[统计学习方法｜EM算法与GMM模型原理详解与实现](https://codewithzichao.github.io/2020/02/22/统计学习方法-EM算法原理详解与实现/#more)
 
 **模型代码实现：**
 
