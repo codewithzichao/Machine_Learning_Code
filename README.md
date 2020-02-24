@@ -70,9 +70,9 @@
 
 ## 统计学习方法｜HMM
 
-**模型理论讲解：**
+**模型理论讲解：**[统计学习方法｜隐马尔可夫模型原理详解与实现](https://codewithzichao.github.io/2020/02/23/统计学习方法-隐马尔可夫模型原理详解与实现/#more)
 
-**模型代码实现：**
+**模型代码实现：**[HMM_hmmlearn.py](https://github.com/codewithzichao/Machine_Learning_Code/blob/master/HMM/HMM_hmmlearn.py)、[HMM_python.py](https://github.com/codewithzichao/Machine_Learning_Code/blob/master/HMM/HMM_python.py)
 
 ## 统计学习方法｜CRF
 
