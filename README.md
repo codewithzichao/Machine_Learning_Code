@@ -10,9 +10,9 @@
 
 ## 统计学习方法｜K近邻
 
-**模型理论讲解：**
+**模型理论讲解：**[统计学习方法｜K近邻算法原理详解与实现](https://codewithzichao.github.io/2020/02/26/统计学习方法｜最近邻算法原理详解与实现/#more)
 
-**模型代码实现：**
+**模型代码实现：**[KNN_python.py](https://github.com/codewithzichao/Machine_Learning_Code/blob/master/KNN/KNN_python.py)、[KNN_sklearn.py](https://github.com/codewithzichao/Machine_Learning_Code/blob/master/KNN/KNN_sklearn.py)
 
 ## 统计学习方法｜朴素贝叶斯
 
