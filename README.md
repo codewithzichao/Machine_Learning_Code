@@ -76,9 +76,9 @@
 
 ## 统计学习方法｜CRF
 
-**模型理论讲解：**
+**模型理论讲解：**[统计学习方法｜条件随机场模型原理详解与实现](https://codewithzichao.github.io/2020/02/24/统计学习方法-条件随机场模型原理详解与实现/#more)
 
-**模型代码实现：**
+**模型代码实现：**[CRF_python.py](https://github.com/codewithzichao/Machine_Learning_Code/blob/master/CRF/CRF_python.py)、[CRF_sklearn.py](https://github.com/codewithzichao/Machine_Learning_Code/blob/master/CRF/CRF_sklearn.py)
 
 ## 机器学习｜FM/FFM
 
