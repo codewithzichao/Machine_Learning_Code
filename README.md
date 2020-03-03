@@ -56,6 +56,12 @@
 
 **模型代码实现：**
 
+## 机器学习｜XGBoost模型原理详解与实战
+
+**模型理论讲解：**[机器学习｜XGBoost模型原理详解与实战](https://codewithzichao.github.io/2020/02/28/机器学习-XGBoost模型原理详解与实战/#more)
+
+**模型应用实战**：
+
 ## 机器学习｜GBDT/XGBoost/Light GBM/catBoost
 
 **模型理论讲解：**
