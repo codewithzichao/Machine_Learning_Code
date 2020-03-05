@@ -62,9 +62,9 @@
 
 **模型应用实战**：
 
-## 机器学习｜Light GBM/catBoost
+## 机器学习｜LightGBM/catBoost
 
-**模型理论讲解：**
+**模型理论讲解：**[机器学习｜LightGBM与catBoost模型原理详解](https://codewithzichao.github.io/2020/03/04/机器学习-LightGBM与catBoost模型原理详解/#more)
 
 ## 统计学习方法｜EM算法
 
