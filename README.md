@@ -60,7 +60,7 @@
 
 **模型理论讲解：**[机器学习｜XGBoost模型原理详解与实战](https://codewithzichao.github.io/2020/02/28/机器学习-XGBoost模型原理详解与实战/#more)
 
-**模型应用实战**：
+**模型应用实战**：[xgboost_mnist.py](https://github.com/codewithzichao/Machine_Learning_Code/blob/master/xgboost/xgboost_mnist.py)
 
 ## 机器学习｜LightGBM/catBoost
 
