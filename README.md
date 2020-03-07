@@ -86,7 +86,5 @@
 
 ## 机器学习｜FM/FFM
 
-**模型理论讲解：**
-
-**模型代码实现：**
+**模型理论讲解：**[机器学习｜FM模型与FFM模型原理详解](https://codewithzichao.github.io/2020/02/28/机器学习-FM-FFM模型详解/#more)
 
