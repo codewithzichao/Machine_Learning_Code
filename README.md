@@ -24,7 +24,7 @@
 
 **模型理论讲解：**[统计学习方法｜决策树模型原理详解与实现](https://codewithzichao.github.io/2020/02/27/统计学习方法-决策树模型原理详解与实现/#more)
 
-**模型代码实现**
+**模型代码实现：** [decision_tree_python.py](https://github.com/codewithzichao/Machine_Learning_Code/blob/master/Decision_Tree/decision_tree_python.py)、[decision_tree_sklearn.py](https://github.com/codewithzichao/Machine_Learning_Code/blob/master/Decision_Tree/decision_tree_sklearn.py)
 
 ## 统计学习方法｜logistic回归
 
